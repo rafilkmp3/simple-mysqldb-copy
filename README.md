@@ -11,4 +11,4 @@
   -e MYSQL_DESTINATION_USER=root \
   -e MYSQL_SOURCE_PASSWORD=password \
   -e MYSQL_DESTINATION_DBNAME=destination_database \
-  tat2bu/simple-mysqldb-copy
+  rafilkmp3/simple-mysqldb-copy
