@@ -1,5 +1,6 @@
 # mysql database copy
 
+```
   docker run --rm \
   -e MYSQL_SOURCE_HOST=source_host \
   -e MYSQL_SOURCE_PORT=3306 \
@@ -12,3 +13,4 @@
   -e MYSQL_SOURCE_PASSWORD=password \
   -e MYSQL_DESTINATION_DBNAME=destination_database \
   rafilkmp3/simple-mysqldb-copy
+```
